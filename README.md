@@ -13,6 +13,8 @@
 <a href="https://www.leetcode.com/adminneo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adminneo" height="30" width="40" /></a>
 </p>
 
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -27,7 +29,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mexmonjonovuz&show_icons=true&locale=en&layout=compact" alt="mexmonjonovuz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mexmonjonovuz&show_icons=true&locale=en" alt="mexmonjonovuz" /></p>
@@ -35,4 +37,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mexmonjonovuz&label=Profile%20views&color=0e75b6&style=flat" alt="mexmonjonovuz" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mexmonjonovuz" alt="mexmonjonovuz" /></a> </p>
 
-[![Snake](https://profile-readme-generator.com/assets/snake.svg)]
+
