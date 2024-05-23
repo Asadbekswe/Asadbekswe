@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asabek</h1>
 <h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
 
+[<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
 
 
 <h3 align="left">Languages and Tools:</h3>
