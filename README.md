@@ -12,3 +12,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">📈 Leet Code Algorithms Status</h1>
+<h1 align="center">
+    <a href="https://leetcode.com/u/Mexmonjonovuz/">
+        <img src="https://leetcard.jacoblin.cool/Mexmonjonovuz?theme=dark" alt="Leetcode Stats">
+    </a>
+</h1>
+
+
