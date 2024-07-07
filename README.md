@@ -23,17 +23,13 @@
 
 
 
+## 🌐 Socials:
+
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://mexmonjonovuz.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mexmonjonovuz)  [![Gmail](https://img.shields.io/badge/asadbekmehmonjonov5@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:asadbekmehmonjonov5@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/mexmonjonovuz)
 
 
 
 
 
 
-
-<h1 align="center">📈 Leet Code Algorithms Status</h1>
-<h1 align="center">
-    <a href="https://leetcode.com/u/Mexmonjonovuz/">
-        <img src="https://leetcard.jacoblin.cool/Mexmonjonovuz?theme=dark" alt="Leetcode Stats">
-    </a>
-</h1>
 
