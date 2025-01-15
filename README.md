@@ -36,11 +36,6 @@
 
 <!--![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 
-
-
-
-
-
-
+<a href="https://leetcode.com/u/mexmonjonovuz/">![Leetcode Stats](https://leetcard.jacoblin.cool/mexmonjonovuz?theme=dark)</a>
 
 
