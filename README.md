@@ -27,8 +27,18 @@
 
 
 
+<div style="text-align: center;">
+    <a href="https://buymeacoffee.com/Asadbekswe" target="_blank">
+        <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+             alt="Buy Me A Book" 
+             style="height: 41px !important; 
+                    width: 174px !important; 
+                    box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; 
+                    -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
+    </a>
+</div>
 
-https://buymeacoffee.com/mexmonjonovuz
+
 
 <!--![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 <!--<a href="https://leetcode.com/u/mexmonjonovuz/">![Leetcode Stats](https://leetcard.jacoblin.cool/mexmonjonovuz?theme=dark)</a>-->
