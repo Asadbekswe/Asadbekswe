@@ -39,6 +39,13 @@
 </div>
 
 
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/asadbekswe/">
+    <img src="https://leetcard.jacoblin.cool/asadbekswe?theme=chartreuse" alt="LeetCode Stats for Asadbekswe"/>
+  </a>
+</p>
 
 <!--![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 <!--<a href="https://leetcode.com/u/mexmonjonovuz/">![Leetcode Stats](https://leetcard.jacoblin.cool/mexmonjonovuz?theme=dark)</a>-->
