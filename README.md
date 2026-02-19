@@ -48,28 +48,22 @@
 </p>
 
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=asadbekswe&data=repositories,stars,commits&theme=dark"/>
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=asadbekswe&data=repositories,stars,commits&theme=dark"/> 
+   <!-- <img src="https://github-profile-trophy.vercel.app/?username=asadbekswe&theme=radical"/> -->
+   <br/><br/>
+   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadbekswe&theme=tokyonight"/>
+   <br/>
 </p>
 
-<!-- <p align="center"> -->
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=asadbekswe&show_icons=true&show=prs_merged&theme=github_dark" alt="GitHub Stats" height="185"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekswe&layout=compact&theme=github_dark" alt="Top Languages"/>
--->
-<!-- </p> -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbekswe&theme=github_dark" alt="GitHub Streak" height="185"/>
-</p>
+<!-- <div align="center">  
+  <!-- <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=asadbekswe&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Asadbekswe github stats" />  
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekswe&layout=compact&hide_border=true&title_color=ffff&text_color=fff&bg_color=0d1117" /> 
+</div>-->
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asadbekswe&theme=juicyfresh" alt="GitHub Profile Trophy for Asadbekswe">
-</p> -->
-
-
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=120&section=footer"/>
 
 <!--![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 <!--<a href="https://leetcode.com/u/mexmonjonovuz/">![Leetcode Stats](https://leetcard.jacoblin.cool/mexmonjonovuz?theme=dark)</a>-->
