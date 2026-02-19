@@ -47,5 +47,29 @@
   </a>
 </p>
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=asadbekswe&data=repositories,stars,commits&theme=dark"/>
+</p>
+
+<!-- <p align="center"> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=asadbekswe&show_icons=true&show=prs_merged&theme=github_dark" alt="GitHub Stats" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekswe&layout=compact&theme=github_dark" alt="Top Languages"/>
+-->
+<!-- </p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbekswe&theme=github_dark" alt="GitHub Streak" height="185"/>
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asadbekswe&theme=juicyfresh" alt="GitHub Profile Trophy for Asadbekswe">
+</p> -->
+
+
+---
+
 <!--![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 <!--<a href="https://leetcode.com/u/mexmonjonovuz/">![Leetcode Stats](https://leetcard.jacoblin.cool/mexmonjonovuz?theme=dark)</a>-->
