@@ -1,6 +1,6 @@
 <!-- ============================== HERO ============================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e3a5c,100:38bdf8&height=200&section=header&text=Asadbek&fontSize=64&fontColor=e6edf3&fontAlignY=36&desc=Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" alt="Asadbek — Backend &amp; AI Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e3a5c,100:38bdf8&height=200&section=header&text=Asadbek&fontSize=64&fontColor=e6edf3&fontAlignY=36&desc=Backend%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" alt="Asadbek — Backend &amp; AI Engineer" />
 </p>
 
 <p align="center">
